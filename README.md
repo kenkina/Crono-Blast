@@ -1,11 +1,11 @@
-#Crono-Blast
+# Crono-Blast
 
-###### Course
+#### Course
 UPC - Estructuras de Datos y Algoritmos 2015-01
 
-###### Video
+#### Video
 https://www.youtube.com/watch?v=3eoEKNPzLUs
 
-###### Credits :sunglasses:
+#### Credits :sunglasses:
 - Cutipa Arias 	(@helcu)
 - Kina Ken 		(@kenkina)
