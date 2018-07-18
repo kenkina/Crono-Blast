@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CBala" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAhDCAAAAAAAQAEAAAIEEIAAAIAAAAAAIBgCAAAFAA=</HashCode>
+      <FileName>Bala.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCaraPersonaje" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CaraPersonaje.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSangre" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Sangre.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEnemigo" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAADAAAAAAAwAAAAAAAgAAAAQAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Enemigo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFigura" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAhBAEQFEAAAAAADQAIEEJCBAIAAACQQIlgCAAABAA=</HashCode>
+      <FileName>Figura.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFondo" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAIAABAAAAgAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Fondo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CJuego" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AghAQwhABFNEAAVAsAAKAAAIAQAAECAAAAAFCAVAKAA=</HashCode>
+      <FileName>Juego.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNivel1" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Nivel1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNiveles" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Niveles.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPersonaje" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAQAAAIAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Personaje.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Enemigo" Collapsed="true">
+    <Position X="13.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBgAAAAAgA=</HashCode>
+      <FileName>Juego.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Bala" Collapsed="true">
+    <Position X="12" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAABgAAAABAA=</HashCode>
+      <FileName>Juego.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="path" Collapsed="true">
+    <Position X="12" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAgAAIAAEAAAAACAIAAABAAAAAAAAIAIAAAAAA=</HashCode>
+      <FileName>Juego.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="place" Collapsed="true">
+    <Position X="13.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAgEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Juego.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="Tecla" Collapsed="true">
+    <Position X="12" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAgAEAAIAgAAAAAAEIAAAAAAAAQAAAEAAAA=</HashCode>
+      <FileName>Figura.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
