@@ -1,5 +1,7 @@
 # Crono-Blast
 
+![Crono-Blast](https://github.com/kenkina/Crono-Blast/blob/master/Game/sprites/Sprites%20usados/Menu.jpg)
+
 #### Course
 UPC - Estructuras de Datos y Algoritmos 2015-01
 
